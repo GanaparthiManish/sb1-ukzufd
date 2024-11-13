@@ -1,0 +1,1 @@
+[src/store/useStore.ts, src/components/GameCard.tsx, src/components/Footer.tsx, src/pages/Games.tsx, src/pages/Terms.tsx, src/pages/Home.tsx, src/pages/Support.tsx, src/pages/GamePlay.tsx]
